@@ -1,0 +1,11 @@
+# 日志等级: "debug" (显示详细请求) 或 "info" (只显示结果)
+log_level: "info"
+
+# 用户列表
+# 给账号起个名字，方便区分
+users:
+  - nickname: "我的大号"       
+    token: "这里填入教程中获取的Token"
+    
+  - nickname: "我的小号"
+    token: "这里填入另一个Token"
